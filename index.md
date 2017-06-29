@@ -1,5 +1,3 @@
 ---
-title: 'hi'
+title: 'Elliott B. Edwards (el2iot2)'
 ---
-
-## Elliott B. Edwards (el2iot2)
