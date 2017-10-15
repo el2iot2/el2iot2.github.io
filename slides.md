@@ -2,7 +2,7 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-#Elliott B. Edwards ([el2iot2](https://github.com/el2iot2))
+#Elliott B. Edwards ([el<sup>2</sup>iot<sup>2</sup>](https://github.com/el2iot2))
 Ever seeking a balance between *art* and *craft*
 .footnote[Swipe (or hit arrow key) to go to next slide]
 ---
